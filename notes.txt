@@ -1,0 +1,4 @@
+My images are too bright atm
+For the brightness issue:
+This is happening because the network outputs aren't properly normalized after processing
+We should normalize the outputs to match the input image range
